@@ -1,4 +1,4 @@
-# Pull Request Template
+## Pull Request Template
 generic pull request template(s)
 
 # Guide to creating a pull request template for your github repository:
